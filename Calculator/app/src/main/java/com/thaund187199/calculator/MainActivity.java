@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.thaund187199.calculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 

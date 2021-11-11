@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.calculator"
+        applicationId "com.thaund187199.calculator"
         minSdk 21
         targetSdk 31
         versionCode 1
