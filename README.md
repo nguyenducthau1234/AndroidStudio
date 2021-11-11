@@ -1,3 +1,3 @@
 # AndroidStudio
 
-Phát triển ứng dụng di động
+IT4785Q - Nguyễn Đức Thâu - 20187199
